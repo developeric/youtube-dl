@@ -1,5 +1,10 @@
 [![Build Status](https://travis-ci.org/ytdl-org/youtube-dl.svg?branch=master)](https://travis-ci.org/ytdl-org/youtube-dl)
 
+# THIS REPO IS DMCA COMPLIENT. ALL MUSIC VIDEOS HAVE BEEN REMOVED.
+
+To RIAA: Fuck you, imagine taking down a program with 70k stars for having links as TESTS.
+
+
 youtube-dl - download videos from youtube.com or other video platforms
 
 - [INSTALLATION](#installation)
